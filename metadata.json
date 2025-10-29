@@ -1,0 +1,7 @@
+{
+  "name": " To-Do List",
+  "description": "An intelligent to-do list application powered by the Gemini API. It helps you manage tasks, break down complex items into sub-tasks, research topics with up-to-date information, and even reads your task list aloud using text-to-speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
